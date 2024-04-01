@@ -26,7 +26,7 @@ TA's office hour: Mon, 4pm-5pm, Zoom, or by Appointment
 | 4/17 | Solidity                           |  [lec6](#)      |      |   |     |
 | 4/22 |  Stablecoins, Oracle, and Lending                           |  [lec7](#)      |      |       |  HW1   |
 | 4/24 | Decentralized exchanges                         |  [lec8](#)      |  R3    | [HW2](homework/hw2/hw2.md) |  R2   |
-| 4/29 |  Onchain Gaming                        |  [lec9](#)      |  Proposal    |     | |
+| 4/29 |  Onchain Gaming -- smsunarto at Argus Labs                       |  [lec9](#)      |  Proposal    |     | |
 | 5/1 | DeFi Security    --Yanju      | [lec10](#)        |      |    |  R3   |
 | 5/6 | MEV           | [lec11](#)        |      |    | HW2 |
 | 5/8 | Zero-knowledge Proofs and zkSnarks   |  [lec12](#)       |      |     |   Proposal (2 pages)  |
