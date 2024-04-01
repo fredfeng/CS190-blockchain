@@ -1,45 +1,43 @@
-# CS190I Blockchain Technologies
+# CS190J Blockchain Technologies and Security
 
-The course covers all aspects of blockchains and cryptocurrencies, including distributed consensus, smart contracts, economics, scalability, and applications. We will focus on Bitcoin and Ethereum as case studies.
+The course covers all aspects of blockchains and cryptocurrencies, including distributed consensus, smart contracts, economics, scalability, security, and applications. We will focus on Bitcoin and Ethereum as case studies.
 
-The workloads include 4 programming assignments.
+The workloads include 4 programming assignments plus one final project.
 
 # Office hour
 Instructor : Yu Feng (yufeng@UCSBCS)
 
 TA : Yanju Chen (yanju@UCSBCS)
 
-Class: M,Wed, 9:15am, Zoom
+Class: M,Wed, 5:00pm-6:15pm, CHEM 1171
 
-Instructor's office hour: Fri, 9am-10am
+Instructor's office hour: Mon, 9am-10am
 
 TA's office hour: Mon, 4pm-5pm, Zoom, or by Appointment
-
-Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icSlSAUGOqUewDV8lzg
 
 
 | Date  | Topic                                         | Slides | Read | Out | Due |
 |-------|-----------------------------------------------|--------|------|-----|-----|
-| 3/29  | Welcome & Course Overview                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
-| 3/31  | Solver-Aided Synthesis I (Rosette)                                  |  [lec2](lectures/lecture2.pdf)      |      |     |     |
-| 4/5  | Solver-Aided Synthesis I (Neo)          |  [lec3](lectures/lecture3.pdf)      |  R1    |     |     |
-| 4/7  | Introduction to SMT and CFG             |  [lec4](lectures/lecture4.pdf)      |     | [HW1](homework/hw1/hw1.md) |     |
-| 4/12  | Introduction to Inductive Synthesis               |  [lec5](lectures/lecture5.pdf)     |   R2   |     | R1    |
-| 4/14 | Enumerative Synthesis                           |  [lec6](lectures/lecture6.pdf)      |      |   |     |
-| 4/19 | Component-based Synthesis                           |  [lec7](lectures/lecture7.pdf)      |      |       |  HW1   |
-| 4/21 | Speed-up Synthesis with Abstract Semantics                         |  [lec8](lectures/lecture8.pdf)      |  R3    | [HW2](homework/hw2/hw2.md) |  R2   |
-| 4/26 |  Synthesis with Deep Learning                        |  [lec9](lectures/lecture9.pdf)      |  Proposal    |     | |
-| 4/28 | Multi-model Program Synthesis          | [lec10](lectures/lecture10.pdf)        |      |    |  R3   |
-| 5/3 | Inductive Synthesis with Stochastic Search           | [lec11](lectures/lecture11.pdf)        |      |    | HW2 |
-| 5/5 | Case I: Visualization Synthesis   |  [lec12](lectures/lecture12.pdf)       |      |     |   Proposal (2 pages)  |
-| 5/10 | Case II: Attack Synthesis for Smart Contracts                       |  [lec13](lectures/lecture13.pdf)       |  R4    |     |     |
-| 5/12  | Counter-example Guided Synthesis  | [lec14](#)        |      | [HW3](homework/hw3/hw3.md) |     |
-| 5/17  | Combine ML with Deductive Reasoning |        |      |     |     |
-| 5/19  | Interactive Synthesis with Human in the Loop |        |      |     |     |
-| 5/24 | Deductive Synthesis                       |         |       |     |   R4, Poster (PDF)  |
-| 5/26 | Virtual Poster Session                |        |      |     | HW3 |
-| 5/31 | Memorial Day        |         |      |     |    |
-| 6/2  | Final week, no class                                 |        |      |     |  Final Report (8 pages)  |
+| 4/1  | Introduction to blockchain and cryptocurrency                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
+| 4/3  | Bitcoin                                  |  [lec2](#)      |      |     |     |
+| 4/8  | Merkle tree          |  [lec3](#)      |  R1    |     |     |
+| 4/10  | Proof of Stake             |  [lec4](#)      |     | [HW1](homework/hw1/hw1.md) |     |
+| 4/15  | Ethereum               |  [lec5](#)     |   R2   |     | R1    |
+| 4/17 | Solidity                           |  [lec6](#)      |      |   |     |
+| 4/22 |  Stablecoins, Oracle, and Lending                           |  [lec7](#)      |      |       |  HW1   |
+| 4/24 | Decentralized exchanges                         |  [lec8](#)      |  R3    | [HW2](homework/hw2/hw2.md) |  R2   |
+| 4/29 |  Onchain Gaming                        |  [lec9](#)      |  Proposal    |     | |
+| 5/1 | DeFi Security    --Yanju      | [lec10](#)        |      |    |  R3   |
+| 5/6 | MEV           | [lec11](#)        |      |    | HW2 |
+| 5/8 | Zero-knowledge Proofs and zkSnarks   |  [lec12](#)       |      |     |   Proposal (2 pages)  |
+| 5/13  |  Optimistic Rollups                      |  [lec13](#)       |  R4    |     |     |
+| 5/15  |  ZK Rollups -- Haichen Shen at Scroll  | [lec14](#)        |      | [HW3](homework/hw3/hw3.md) |     |
+| 5/20  | Privacy blockchain -- Yanju |   [lec15](#)     |      |     |     |
+| 5/22  | ZK Security --Yanju |   [lec16](#)     |      |     |     |
+| 5/27 | Memorial Day                       |         |       |     |   R4, Poster (PDF)  |
+| 5/29 | TBD                |     [lec17](#)   |      |     | HW3 |
+| 6/3 | TBD        |   [lec18](#)      |      |     |    |
+| 6/5  | Poster Session for Final Projects                                 |        |      |     |  Final Report (8 pages)  |
 
 
 # Grading
