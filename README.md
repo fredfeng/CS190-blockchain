@@ -7,11 +7,11 @@ The workloads include 4 programming assignments plus one final project.
 # Office hour
 Instructor: Yu Feng (yufeng@UCSBCS)
 
-TA: Yanju Chen (yanju@UCSBCS)
+TA: Junrui Liu (junrui@UCSBCS)
 
 Class: M,Wed, 5:00pm-6:15pm, CHEM 1171
 
-Instructor's office hour: Mon, 9am-10am
+Instructor's office hour: Mon, 9am-10am, HFH-2157
 
 Yanju's office hour (for HW inquiries): Mon, 4pm-5pm, Zoom (TBD) or by appointment
 
