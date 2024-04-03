@@ -19,7 +19,7 @@ Yanju's office hour (for HW inquiries): Mon, 4pm-5pm, Zoom (TBD) or by appointme
 | Date  | Topic                                         | Slides | Read | Out | Due |
 |-------|-----------------------------------------------|--------|------|-----|-----|
 | 4/1  | Introduction to blockchain and cryptocurrency                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
-| 4/3  | Bitcoin                                  |  [lec2](#)      |      |     |     |
+| 4/3  | Bitcoin                                  |  [lec2](lectures/lecture2.pdf)      |      |     |     |
 | 4/8  | Merkle tree          |  [lec3](#)      |  R1    | [HW1](homework/hw1/hw1.md) |     |
 | 4/10  | Proof of Stake             |  [lec4](#)      |     |  |     |
 | 4/15  | Ethereum               |  [lec5](#)     |   R2   |     | R1    |
