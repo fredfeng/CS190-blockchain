@@ -73,10 +73,10 @@ Credit: https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States
 
 # Homework
 
-1. [Homework1](#)
-2. [Homework2](#)
-3. [Homework3](#)
-3. [Homework4](#)
+1. [Homework1](homework/hw1)
+2. [Homework2](homework/hw2)
+3. [Homework3](homework/hw3)
+3. [Homework4](homework/hw4)
 
 
 
