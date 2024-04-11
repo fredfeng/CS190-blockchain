@@ -20,8 +20,8 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 |-------|-----------------------------------------------|--------|------|-----|-----|
 | 4/1  | Introduction to blockchain and cryptocurrency                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
 | 4/3  | Bitcoin                                  |  [lec2](lectures/lecture2.pdf)      |      |     |     |
-| 4/8  | Merkle tree          |  [lec3](#)      |  R1    | [HW1](homework/hw1) |     |
-| 4/10  | Proof of Stake             |  [lec4](#)      |     |  |     |
+| 4/8  | Merkle tree          |  [lec3](lectures/lecture3.pdf)      |  R1    | [HW1](homework/hw1) |     |
+| 4/10  | Consensus             |  [lec4](lectures/lecture4.pdf)      |     |  |     |
 | 4/15  | Ethereum               |  [lec5](#)     |   R2   |     | R1    |
 | 4/17 | Solidity                           |  [lec6](#)      |      |   |     |
 | 4/22 |  Stablecoins, Oracle, and Lending                           |  [lec7](#)      |      | [HW2](homework/hw2) |  HW1   |
