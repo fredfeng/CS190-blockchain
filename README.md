@@ -13,6 +13,8 @@ Class: M,Wed, 5:00pm-6:15pm, CHEM 1171
 
 Instructor's office hour: Mon, 9am-10am, HFH-2157
 
+Junrui's office hour: Mon, 11am-12pm, Phelps-1445
+
 Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://ucsb.zoom.us/j/85737101992?pwd=UzlHNHNQQkVSenhDZzArejR4SWt1QT09)) or by slack/email appointment
 
 
