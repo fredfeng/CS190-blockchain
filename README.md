@@ -22,12 +22,12 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 |-------|-----------------------------------------------|--------|------|-----|-----|
 | 4/1  | Introduction to blockchain and cryptocurrency                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
 | 4/3  | Bitcoin                                  |  [lec2](lectures/lecture2.pdf)      |      |     |     |
-| 4/8  | Merkle tree          |  [lec3](lectures/lecture3.pdf)      |  R1    | [HW1](homework/hw1) |     |
-| 4/10  | Consensus             |  [lec4](lectures/lecture4.pdf)      |     |  |     |
-| 4/15  | Ethereum               |  [lec5](#)     |   R2   |     | R1    |
-| 4/17 | Solidity                           |  [lec6](#)      |      |   |     |
+| 4/8  | Merkle tree          |  [lec3](lectures/lecture3.pdf)      |      | [HW1](homework/hw1) |     |
+| 4/10  | Consensus             |  [lec5](lectures/lecture5.pdf)      |     |  |     |
+| 4/15  | Ethereum               |  [lec7](lectures/lecture7.pdf)     |      |     |     |
+| 4/17 | Solidity                           |  [lec8](lectures/lecture8.pdf)      |      |   |     |
 | 4/22 |  Stablecoins, Oracle, and Lending                           |  [lec7](#)      |      | [HW2](homework/hw2) |  HW1   |
-| 4/24 | Decentralized exchanges                         |  [lec8](#)      |  R3    |  |  R2   |
+| 4/24 | Decentralized exchanges                         |  [lec8](#)      |      |  |     |
 | 4/29 |  Onchain Gaming -- smsunarto at Argus Labs                       |  [lec9](#)      |  Proposal    |     | |
 | 5/1 | DeFi Security    --Yanju      | [lec10](#)        |      |    |  R3   |
 | 5/6 | MEV           | [lec11](#)        |      | [HW3](homework/hw3) | HW2 |
