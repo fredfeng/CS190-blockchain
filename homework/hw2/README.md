@@ -95,7 +95,6 @@ Note that:
 
 - You may find this Solidity language examples useful: [https://solidity-by-example.org/](https://solidity-by-example.org/)
 - Foundry itself is a tool that provides powerful testing utilities for Solidity. Check out its documentation here: [https://book.getfoundry.sh/](https://book.getfoundry.sh/)
-- Additionally, you may check out another practical blog about Merkle tree: [https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/](https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/)
 
 ## Academic Integrity
 
