@@ -26,7 +26,7 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 | 4/10  | Consensus             |  [lec5](lectures/lecture5.pdf)      |     |  |     |
 | 4/15  | Ethereum               |  [lec7](lectures/lecture7.pdf)     |      |     |     |
 | 4/17 | Solidity                           |  [lec8](lectures/lecture8.pdf)      |      |   |     |
-| 4/22 |  Stablecoins, Oracle, and Lending                           |  [lec7](#)      |      | [HW2](homework/hw2) |  HW1   |
+| 4/22 |  Stablecoins, Oracle, and Lending                           |  [lec9](lectures/lecture9.pdf)       |      | [HW2](homework/hw2) |  HW1   |
 | 4/24 | Decentralized exchanges                         |  [lec8](#)      |      |  |     |
 | 4/29 |  Onchain Gaming -- smsunarto at Argus Labs                       |  [lec9](#)      |  Proposal    |     | |
 | 5/1 | DeFi Security    --Yanju      | [lec10](#)        |      |    |     |
