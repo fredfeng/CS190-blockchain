@@ -30,8 +30,8 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 | 4/24 | Decentralized exchanges                         |  [lec8](#)      |      |  |     |
 | 4/29 |  Onchain Gaming -- smsunarto at Argus Labs                       |  [lec9](#)      |  Proposal    |     | |
 | 5/1 | DeFi Security    --Yanju      | [lec10](#)        |      |    |     |
-| 5/6 | MEV           | [lec11](#)        |      | [HW3](homework/hw3) |  |
-| 5/8 | Zero-knowledge Proofs and zkSnarks   |  [lec12](#)       |      |     | HW2, Proposal (2 pages) |
+| 5/6 | Decentralized exchanges            | [lec11](#)        |      | [HW3](homework/hw3) |  |
+| 5/8 | Onchain Gaming -- smsunarto at Argus Labs    |  [lec12](#)       |      |     | HW2, Proposal (2 pages) |
 | 5/13  |  Optimistic Rollups                      |  [lec13](#)       |      |     |     |
 | 5/15  |  ZK Rollups -- Haichen Shen at Scroll  | [lec14](#)        |      |  |     |
 | 5/20  | Privacy blockchain -- Yanju |   [lec15](#)     |      | [HW4](homework/hw4) | HW3 |
