@@ -22,7 +22,7 @@
 
 ## Overview
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 You will be working with your teammates to build a real-world blockchain application using Solidity and Foundry; but don't worry, as a final project for this coure, you don't need to actually deploy it on any blockchains for now, but just demonstrate it using Foundry.
 
@@ -41,7 +41,7 @@ So the final project will be evaluated according to the above spirits. Check the
 
 ## Proposal Tracks
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 > We will provide more detailed specification soon. Don't worry, fine-grain specification is provided to help you sort out what to build but not to restrict what and how you should implement. We won't check the exact matching of your application artifact with the specification, but would rather focus more on whether some basic functionalities are realized or severely broken.
 
@@ -100,7 +100,7 @@ In this track, you will be building a blockchain survey system that collects use
 
 ## Proposal
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 Each team will be submitting a proposal (2 pages) discussing some of your application development plan, including:
 
@@ -115,13 +115,13 @@ Each team will be submitting a proposal (2 pages) discussing some of your applic
 
 ## Poster
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 > Detail of poster requirement is coming soon. Please check back later.
 
 ## Final Report
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 > Detail of final report requirement is coming soon. Please check back later.
 
@@ -129,7 +129,7 @@ Each team will be submitting a final report (8 pages) discussing details of the 
 
 ## Submission and Evaluation
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 > Please check back later for a finer-grained evaluation criteria.
 
@@ -162,7 +162,7 @@ Here's the evaluation breakdown (100%):
 
 ## Important Dates
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 - Proposal Due: 11:59pm on Monday, May 20, 2024 (Pacific Time)
 - Poster Due: 11:59pm on Wednesday, May 29, 2024 (Pacific Time)
@@ -173,6 +173,6 @@ Here's the evaluation breakdown (100%):
 
 ## Academic Integrity
 
-[[back to top]]([🔝](#cs190-blockchain-final-project-guide))
+[[back to top]](#cs190-blockchain-final-project-guide)
 
 Please refer to UCSB's adacemic integrity guidance ([here](https://studentconduct.sa.ucsb.edu/academic-integrity)) if you have any questions.
