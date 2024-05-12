@@ -2,7 +2,25 @@
 
 - Send a message to the course slack channel if you have any questions.
 
-## Overview
+## Table of Contents
+
+- [Overview](#overview)
+
+- [Proposal Tracks](#proposal-tracks)
+
+- [Proposal](#proposal)
+
+- [Poster](#poster)
+
+- [Final Report](#final-report)
+
+- [Submission and Evaluation](#submission-and-evaluation)
+
+- [Important Dates](#important-dates)
+
+- [Academic Integrity](#academic-integrity)
+
+## Overview [🔝](#cs190-blockchain-final-project-guide)
 
 You will be working with your teammates to build a real-world blockchain application using Solidity and Foundry; but don't worry, as a final project for this coure, you don't need to actually deploy it on any blockchains for now, but just demonstrate it using Foundry.
 
@@ -19,7 +37,7 @@ Note that the final project is not only about coding and getting the application
 
 So the final project will be evaluated according to the above spirits. Check the "Evaluation" section for more details.
 
-## Proposal Tracks
+## Proposal Tracks [🔝](#cs190-blockchain-final-project-guide)
 
 > We will provide more detailed specification soon. Don't worry, fine-grain specification is provided to help you sort out what to build but not to restrict what and how you should implement. We won't check the exact matching of your application artifact with the specification, but would rather focus more on whether some basic functionalities are realized or severely broken.
 
@@ -76,7 +94,7 @@ In this track, you will be building a blockchain survey system that collects use
 - A survey owner can close the survey or wait for it to close after the expiry block timestamp or when it reaches the maximum accepted data points. When a survey is closed, certain reward in ETH will be sent to the users participating in it.
 - On a survey expiry block, the survey will always close after receiving all incoming data points in the same block (last minute submission).
 
-## Proposal
+## Proposal [🔝](#cs190-blockchain-final-project-guide)
 
 Each team will be submitting a proposal (2 pages) discussing some of your application development plan, including:
 
@@ -89,17 +107,17 @@ Each team will be submitting a proposal (2 pages) discussing some of your applic
 - The application development timeline and distribution of work between team members.
 - Any other discussions that you think make your application different than other's.
 
-## Poster
+## Poster [🔝](#cs190-blockchain-final-project-guide)
 
 > Detail of poster requirement is coming soon. Please check back later.
 
-## Final Report
+## Final Report [🔝](#cs190-blockchain-final-project-guide)
 
 > Detail of final report requirement is coming soon. Please check back later.
 
 Each team will be submitting a final report (8 pages) discussing details of the application your team has built.
 
-## Submission and Evaluation
+## Submission and Evaluation [🔝](#cs190-blockchain-final-project-guide)
 
 > Please check back later for a finer-grained evaluation criteria.
 
@@ -130,7 +148,7 @@ Here's the evaluation breakdown (100%):
   - Holdout Security Evaluation (10%)
     - A private holdout security evaluation is run manually after submission due to test for any security breaches of the applications. We will test for some of the most common DeFi vulnerabilities (e.g., reentrancy, selfdestruct, etc.) on the submitted application artifact. You don't need to write them.
 
-## Important Dates
+## Important Dates [🔝](#cs190-blockchain-final-project-guide)
 
 - Proposal Due: 11:59pm on Monday, May 20, 2024 (Pacific Time)
 - Poster Due: 11:59pm on Wednesday, May 29, 2024 (Pacific Time)
@@ -139,6 +157,6 @@ Here's the evaluation breakdown (100%):
 
 - Final Report Due: 11:59pm on Wednesday, June 5, 2024 (Pacific Time)
 
-## Academic Integrity
+## Academic Integrity [🔝](#cs190-blockchain-final-project-guide)
 
 Please refer to UCSB's adacemic integrity guidance ([here](https://studentconduct.sa.ucsb.edu/academic-integrity)) if you have any questions.
