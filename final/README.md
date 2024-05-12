@@ -84,7 +84,7 @@ Each team will be submitting a proposal (2 pages) discussing some of your applic
 - Which track did you pick?
 - What's the name of the application that you plan to build?
 - A brief introduction and overview of the system.
-- Draw a figure to describe the overall framework or workflow of your application, which can include (but not restricted to): key components/classes and data structures, inputs/outputs
+- Draw a figure with detailed description (in text) about the overall framework or workflow of your application, which should include (but not restricted to): key components/classes and data structures, inputs/outputs.
 - A brief discussion about potential security issues and your key designs to prevent them.
 - The application development timeline and distribution of work between team members.
 - Any other discussions that you think make your application different than other's.
@@ -108,6 +108,9 @@ Please submit all materials via gradescope, including written reports/documentat
 Here's the evaluation breakdown (100%):
 
 - Proposal (10%)
+  - Please check "Proposal" section and gradescope for detailed requirements and breakdown. Please do a group submission on gradescope.
+  - Late submissions (due 1 week after regular deadline) will have 75% deduction in points, and subsequent submissions after late submission deadline will receive 0 point. Though we generally have a 1-hour grace period for regular deadline, but please do coordinate with your teammates to make the submission on time.
+
 - Poster (10%)
 - Final Report (20%)
 - Application Artifact (60%)
