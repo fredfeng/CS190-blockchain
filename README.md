@@ -31,7 +31,7 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 | 4/24 | Solidity                  |  [lec8](lectures/lecture8.pdf)  |  |     |
 | 4/29 |  Stablecoins & Lending Protocols  |  [lec9](lectures/lecture9.pdf)  |     | |
 | 5/1 | DeFi Security -- Yanju     | [lec10](lectures/lecture10.pdf), [code](lectures/lecture10-code.zip) |    |     |
-| 5/6 | Decentralized exchanges            | [lec11](#)        |  |  |
+| 5/6 | Decentralized exchanges            | [lec11](lectures/lecture11.pdf)        |  |  |
 | 5/8 | Onchain Gaming -- smsunarto at Argus Labs    |  [lec12](#)       | [Project Guide](final/) | HW2 |
 | 5/13  |  Optimistic Rollups                      |  [lec13](#)       | [HW3](homework/hw3) |     |
 | 5/15  |  ZK Rollups -- Haichen Shen at Scroll  | [lec14](#)        |  |     |
