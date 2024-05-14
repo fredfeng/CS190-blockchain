@@ -24,7 +24,7 @@ The following is a list of instructions for each problem.
 
 ### Problem 1: Game Breaker (15 pts)
 
-Alice, Bob and Charlie are playing a game where they add tokens to a gaming contract. They got so addicted to it that you want to stop them by breaking the gaming contract. Write an attack contract to stop the gaming contract by preventing anyone from adding tokens to it, and trigger the "Game has ended" exception.
+Alice, Bob and Charlie are playing a game where they add tokens to a gaming contract. They got so addicted to it that you want to stop them by breaking the gaming contract. Write an attack contract to *completely* stop the gaming contract by preventing anyone from adding tokens or claiming rewards.
 
 ### Problem 2: Turn Taking (30 pts)
 
@@ -62,7 +62,7 @@ You friend told you that there's a flash loaner that is making quite some profit
 
 You will be submitting only the `AttackerX.sol` files (where `X` means the problem id) via Gradescope. You can build upon the provided template in the starter pack, and test locally using Foundry before you submit. The local tests are the same as the ones on gradescope.
 
-Note that, please do NOT include any Foundry utilities/libraries in `AttackerX.sol`; i.e., you are NOT supposed to use the cheatcodes provided by Foundry when constructing the attack contract. You will receive 0 pt if such utilities/libraries are detected by the autograder or manually. ONLY modify and submit the `AttackerX.sol`. You are free to modify the entire `AttackerX.sol` except for the `pragma solidity xxxxxx` line and the `import` line.
+Note that, please do NOT include any Foundry utilities/libraries in `AttackerX.sol`; i.e., you are NOT supposed to use the cheatcodes provided by Foundry, NOR codes from outside the current problem scope when constructing the attack contract. For example, you are not supposed to use contracts from `Problem2.sol` when you are working on `Attack2.sol`. You will receive 0 pt if such utilities/libraries are detected by the autograder or manually. ONLY modify and submit the `AttackerX.sol`. You are free to modify the entire `AttackerX.sol` except for the `pragma solidity xxxxxx` line and the `import` line.
 
 The maximum points you can get is 100 pts, which can be gained from arbitrary number of problems picked by yourself. Note that:
 
