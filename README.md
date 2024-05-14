@@ -33,12 +33,12 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 | 5/1 | DeFi Security -- Yanju     | [lec10](lectures/lecture10.pdf), [code](lectures/lecture10-code.zip) |    |     |
 | 5/6 | Decentralized exchanges            | [lec11](lectures/lecture11.pdf)        |  |  |
 | 5/8 | Onchain Gaming -- smsunarto at Argus Labs    |  [lec12](#)       | [Project Guide](final/) | HW2 |
-| 5/13  |  Optimistic Rollups                      |  [lec13](#)       | [HW3](homework/hw3) |     |
-| 5/15  |  ZK Rollups -- Haichen Shen at Scroll  | [lec14](#)        |  |     |
-| 5/20  | Privacy blockchain |   [lec15](#)     |  | Proposal (2 pages) |
-| 5/22  | ZK Security -- Yanju |   [lec16](#)     |     |     |
+| 5/13  |  Privacy blockchain                      |  [lec13](lectures/lecture13.pdf)                      |  [lec13](#)       | [HW3](homework/hw3)       | [HW3](homework/hw3) |     |
+| 5/15  |  Optimistic Rollups   | [lec14](#)        |  |     |
+| 5/20  | No class (Out of town) |   [lec15](#)     |  | Proposal (2 pages) |
+| 5/22  | ZK Rollups -- Haichen Shen at Scroll |   [lec16](#)     |     |     |
 | 5/27 | Memorial Day                       |         | [HW4](homework/hw4) |  HW3 (Due 5/28)  |
-| 5/29 | TBD                |     [lec17](#)   |     | Poster (PDF) |
+| 5/29 |  More ZKP        |     [lec17](#)   |     | Poster (PDF) |
 | 6/3 | Poster Session for Final Projects |   [lec18](#)      |     |  |
 | 6/5  | No Class                      |        |     |  Final Report (8 pages)  |
 | 6/10 | - | | | HW4 |
