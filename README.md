@@ -33,7 +33,7 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 | 5/1 | DeFi Security -- Yanju     | [lec10](lectures/lecture10.pdf), [code](lectures/lecture10-code.zip) |    |     |
 | 5/6 | Decentralized exchanges            | [lec11](lectures/lecture11.pdf)        |  |  |
 | 5/8 | Onchain Gaming -- smsunarto at Argus Labs    |  [lec12](#)       | [Project Guide](final/) | HW2 |
-| 5/13  |  [Privacy blockchain](lectures/lecture13.pdf)                      |  [lec13](#)       | [HW3](homework/hw3) |     |
+| 5/13  |  Privacy blockchain                      |  [lec13](lectures/lecture13.pdf)                      |  [lec13](#)       | [HW3](homework/hw3)       | [HW3](homework/hw3) |     |
 | 5/15  |  ZK Rollups -- Haichen Shen at Scroll  | [lec14](#)        |  |     |
 | 5/20  | No class (Out of town) |   [lec15](#)     |  | Proposal (2 pages) |
 | 5/22  | More ZKP |   [lec16](#)     |     |     |
