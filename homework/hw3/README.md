@@ -62,7 +62,7 @@ You friend told you that there's a flash loaner that is making quite some profit
 
 You will be submitting only the `AttackerX.sol` files (where `X` means the problem id) via Gradescope. You can build upon the provided template in the starter pack, and test locally using Foundry before you submit. The local tests are the same as the ones on gradescope.
 
-Note that, please do NOT include any Foundry utilities/libraries in `AttackerX.sol`; i.e., you are NOT supposed to use the cheatcodes provided by Foundry, NOR codes from outside the current problem scope when constructing the attack contract. For example, you are not supposed to use contracts from `Problem2.sol` when you are working on `Attack2.sol`. You will receive 0 pt if such utilities/libraries are detected by the autograder or manually. ONLY modify and submit the `AttackerX.sol`. You are free to modify the entire `AttackerX.sol` except for the `pragma solidity xxxxxx` line and the `import` line.
+Note that, please do NOT include any Foundry utilities/libraries in `AttackerX.sol`; i.e., you are NOT supposed to use the cheatcodes provided by Foundry, NOR codes from outside the current problem scope when constructing the attack contract. For example, you are not supposed to use contracts from `Problem2.sol` when you are working on `Attacker1.sol`. You will receive 0 pt if such utilities/libraries are detected by the autograder or manually. ONLY modify and submit the `AttackerX.sol`. You are free to modify the entire `AttackerX.sol` except for the `pragma solidity xxxxxx` line and the `import` line.
 
 The maximum points you can get is 100 pts, which can be gained from arbitrary number of problems picked by yourself. Note that:
 
