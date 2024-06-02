@@ -39,7 +39,7 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 | 5/22  | ZK Rollups -- Haichen Shen at Scroll |   [lec16](#)     |     |     |
 | 5/27 | Memorial Day                       |         | [HW4](homework/hw4) |  HW3 (Due 5/28)  |
 | 5/29 |  More ZKP        |     [lec17](#)   |     | Poster (PDF) |
-| 6/3 | Poster Session I for Final Projects |   [lec18](#)      |     |  |
+| 6/3 | Poster Session I for Final Projects |         |     |  |
 | 6/5  | Poster Session II for Final Projects |        |     |  Final Report (8 pages)  |
 | 6/10 | - | | | HW4 |
 
