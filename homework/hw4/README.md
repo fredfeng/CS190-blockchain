@@ -1,7 +1,7 @@
 # Homework Assignment 4
 
-- Due: 11:59pm on Monday, June 10, 2024 (Pacific Time)
-  - Late Submission Due: 11:59pm on Saturday, June 15, 2024 (Pacific Time)
+- Due: 11:59pm on Friday, June 14, 2024 (Pacific Time)
+  - Late Submission Due: 11:59pm on Sunday, June 16, 2024 (Pacific Time)
 - Submit via Gradescope (Course Entry Code: 3PEP34)
 - Starter Code: [hw4-starter.zip](./hw4-starter.zip)
   - Python 3.10+ is required in order to build, run and test the code if you built on top of the starter code.
@@ -202,7 +202,7 @@ Note that:
 
 - The points you get will be converted to percentage when computing score of this homework towards your final grade. For example, if you get 100/100 pts, you get 100% of the homework score, and if you get 30/100 pts, you'll get 30% of the homework score, etc.
 - There's a grace period of 1 hour after the regular deadline. Note that the grace period is intended for you to wrap up and save your unfinished work for submission at the last minute, and if you could not catch that, your subsequent submissions will be marked as late submissions.
-- Points earned from late submission will be discounted by 50%. Late submission is due on the last day of the quarter. Subsequent submissions after the late submission deadline will not be considered and receive 0 point. There's no grace period of late submission deadline.
+- Points earned from late submission will be discounted by 50%. Late submission is due on the last weekend of the quarter. Subsequent submissions after the late submission deadline will not be considered and receive 0 point. There's no grace period of late submission deadline.
 
 ## Academic Integrity
 

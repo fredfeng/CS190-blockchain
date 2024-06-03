@@ -154,23 +154,23 @@ Here's the evaluation breakdown (100%):
 - Proposal (10%)
   - Please check the "Proposal" section and gradescope for detailed requirements and breakdown.
   - Please do a group submission on gradescope; don't forget to include your teammates when you submit.
-  - Late submissions (due 1 week after regular deadline) will have 75% deduction in points, and subsequent submissions after late submission deadline will receive 0 point. Though we generally have a 1-hour grace period for regular deadline, but please do coordinate with your teammates to make the submission on time.
+  - Late submissions (due on the last weekend of the quarter) will have 75% deduction in points, and subsequent submissions after late submission deadline will receive 0 point. Though we generally have a 1-hour grace period for regular deadline, but please do coordinate with your teammates to make the submission on time.
   
 - Poster (10%)
   - Poster (PDF) Submission (5%)
     - Please check the "Poster" section and gradescope for detailed requirements.
     - Please do a group submission on gradescope; don't forget to include your teammates when you submit.
-    - Late submissions (due 1 week after regular deadline) will have 75% deduction in points, and subsequent submissions after late submission deadline will receive 0 point. Though we generally have a 1-hour grace period for regular deadline, but please do coordinate with your teammates to make the submission on time.
+    - Late submissions (due on the last weekend of the quarter) will have 75% deduction in points, and subsequent submissions after late submission deadline will receive 0 point. Though we generally have a 1-hour grace period for regular deadline, but please do coordinate with your teammates to make the submission on time.
     
   - Presentation at the Poster Session (5%)
   
 - Final Report (20%)
   - Please check the "Final Report" section and gradescope for detailed requirements.
   - Please do a group submission on gradescope; don't forget to include your teammates when you submit.
-  - Late submissions (due 1 week after regular deadline) will have 75% deduction in points, and subsequent submissions after late submission deadline will receive 0 point. Though we generally have a 1-hour grace period for regular deadline, but please do coordinate with your teammates to make the submission on time.
+  - Late submissions (due on the last weekend of the quarter) will have 75% deduction in points, and subsequent submissions after late submission deadline will receive 0 point. Though we generally have a 1-hour grace period for regular deadline, but please do coordinate with your teammates to make the submission on time.
   
-- Application Artifact (60%)
-  - Please put your artifact in a publicly available github repo and include the link in your final report.
+- Project Artifact (60%)
+  - Please put your artifact in a publicly available github repo and ***include the link in your final report***.
   - Documentation (10%)
     - At least the following needs to be documentd:
       - APIs of the application: what they do, how they are called, what they return, and any special and security notes
@@ -202,7 +202,11 @@ Here's the evaluation breakdown (100%):
 - Poster Session: Regular Class Time on Monday, June 3 (Pacific Time)
   - Join on https://www.gather.town/, details to follow.
 
-- Final Report Due: 11:59pm on Wednesday, June 5, 2024 (Pacific Time)
+- Final Report Due: 11:59pm on Friday, June 14, 2024 (Pacific Time)
+
+- Project Artifact Due: 11:59pm on Friday, June 14, 2024 (Pacific Time)
+
+- Late Submission Due: 11:59pm on Sunday, June 16, 2024 (Pacific Time)
 
 ## Academic Integrity
 
