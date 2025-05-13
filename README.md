@@ -1,6 +1,8 @@
 # CS190J Blockchain Technologies and Security
 
-The course covers all aspects of blockchains and cryptocurrencies, including distributed consensus, smart contracts, economics, scalability, security, and applications. We will focus on Bitcoin and Ethereum as case studies.
+This upper‑division course gives students a rigorous, security‑first tour of modern blockchain systems. We begin with the cryptographic building blocks (hash functions, digital signatures, zero‑knowledge proofs) and quickly progress to consensus mechanisms such as Proof‑of‑Work, Proof‑of‑Stake, and BFT‑style protocols. Using Bitcoin and Ethereum as primary case studies, we dissect ledger structures, peer‑to‑peer networking, transaction execution, and economic incentives. The second half of the course focuses on smart‑contract platforms, decentralized applications (DeFi, NFTs, cross‑chain bridges), and the growing landscape of layer‑2 and modular scaling solutions. Students will learn to spot and exploit common contract vulnerabilities, apply formal‑verification tools, and design mitigations grounded in game‑theoretic security.
+
+Coursework combines technical readings with weekly labs in Solidity/Rust and a capstone project in which teams build or audit a real‑world blockchain application. Guest lectures from industry researchers highlight contemporary attacks and defense practices.
 
 The workloads include 4 programming assignments plus one final project.
 
