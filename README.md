@@ -30,15 +30,15 @@ Hanzhi's office hour: Fri, 12pm-1pm, SH-1430 (Discussion Session: 1pm-1:50pm, SH
 | 10/22 |  Midterm 1                  |    |  |     |  |
 | 10/27 |  DeFi Overview: Money Legos  |  [lec8](#)  |     | |  |
 | 10/29 | Stablecoins     | [lec9](#) |    |     |  |
-| 11/3 | Automated Market Makers            | [lec10](#)        |  |  | |
-| 11/5 | Lending    |  [lec11](#)       |  | HW2 |  |
-| 11/10  | Derivatives: Perpetual Futures                      |  [lec12](#)                      | [HW3](#) |        | |
-| 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        |  |     |  |
+| 11/3 | Automated Market Makers            | [lec10](#)        | [HW3](#) | HW2 | |
+| 11/5 | Lending    |  [lec11](#)       |  |  |  |
+| 11/10  | Derivatives: Perpetual Futures                      |  [lec12](#)                      |  |        | |
+| 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        | [HW4](#) |  HW3   |  |
 | 11/17  | DAOs & Governance |   [lec14](#)     |  |  | |
 | 11/19  | Midterm 2 |       |     |     | |
-| 11/24 | Layer-2 Scaling                       |  [lec15](#)        | [HW4](#) |  HW3 (Due 5/28)  | |
+| 11/24 | Layer-2 Scaling                       |  [lec15](#)        |  |   | |
 | 11/26 | Cross-Chain Bridges        |     [lec16](#)   |     |  |  |
-| 12/1 | Security in Practice  |    [lec17](#)      |     |  | |
+| 12/1 | Security in Practice  |    [lec17](#)      |  [HW5](#)   | HW4 | |
 | 12/3  | Wrap-Up & Future Directions |     [lec18](#)    |     |    | |
 
 ## Grading
