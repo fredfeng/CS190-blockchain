@@ -15,7 +15,7 @@ Class: M,Wed, 5:00pm-6:15pm, TD-W 1701
 
 Instructor's office hour: Mon, 3:30pm-4:30pm, HFH-2157
 
-Hanzhi's office hour: Fri, 11am-1pm, Phelps-1445
+Hanzhi's office hour: Fri, 12pm-1pm, SH-1430 (Discussion Session: 1pm-1:50pm, SH-1430)
 
 
 | Date  | Topic                                         | Slides | Out | Due | Note
