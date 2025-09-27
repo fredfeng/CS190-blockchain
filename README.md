@@ -18,36 +18,35 @@ Instructor's office hour: Mon, 3:30pm-4:30pm, HFH-2157
 Hanzhi's office hour: Fri, 11am-1pm, Phelps-1445
 
 
-| Date  | Topic                                         | Slides | Out | Due |
-|:-----:|:---------------------------------------------:|:------:|:---:|:---:|
-| 9/29  | Introduction & Bitcoin                                |  [lec1](lectures/lecture1.pdf)      |     |     |
-| 10/1  | Ethereum Basics                        |  [lec2](#)      |     |     |
-| 10/6  | EVM Execution Model |  [lec3](#)      | [HW1](#) |     |
-| 10/8  | Solidity I: Basics |  [lec4](#)    |  |     |
-| 10/13  | Solidity II: Contracts in Practice |  [lec5](#)   |     |     |
-| 10/15 | Smart Contract Design Patterns |  [lec6](#)    |   |     |
-| 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   |
-| 10/22 |  Midterm 1                  |  [lec8](#)  |  |     |
-| 10/27 |  DeFi Overview: Money Legos  |  [lec9](#)  |     | |
-| 10/29 | Stablecoins     | [lec10](#), [code](lectures/lecture10-code.zip) |    |     |
-| 11/3 | Automated Market Makers            | [lec11](#)        |  |  |
-| 11/5 | Leading    |  [lec12](#)       | [Project Guide](final/) | HW2 |
-| 11/10  | Derivatives: Perpetual Futures                      |  [lec13](#)                      | [HW3](#) |        |
-| 11/12  |  Maximal Extractable Value (MEV)   | [lec14](#)        |  |     |
-| 11/17  | DAOs & Governance |   [lec15](#)     |  | Proposal (2 pages) |
-| 11/19  | Midterm 2 |   [lec16](#)     |     |     |
-| 11/24 | Layer-2 Scaling                       |         | [HW4](#) |  HW3 (Due 5/28)  |
-| 11/26 | Cross-Chain Bridges        |     [lec17](#)   |     | Poster (PDF) |
-| 12/1 | Security in Practice  |         |     |  |
-| 12/3  | Wrap-Up & Future Directions |        |     |    |
+| Date  | Topic                                         | Slides | Out | Due | Note
+|:-----:|:---------------------------------------------:|:------:|:---:|:---:|:---:|
+| 9/29  | Introduction & Bitcoin                                |  [lec1](lectures/lecture1.pdf)      |     |     |     |
+| 10/1  | Ethereum Basics                        |  [lec2](#)      |     |     |     |
+| 10/6  | EVM Execution Model |  [lec3](#)      | [HW1](#) |     |    |
+| 10/8  | Solidity I: Basics |  [lec4](#)    |  |     |   |
+| 10/13  | Solidity II: Contracts in Practice |  [lec5](#)   |     |     |  |
+| 10/15 | Smart Contract Design Patterns |  [lec6](#)    |   |     |  |
+| 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   |  |
+| 10/22 |  Midterm 1                  |  [lec8](#)  |  |     |  |
+| 10/27 |  DeFi Overview: Money Legos  |  [lec9](#)  |     | |  |
+| 10/29 | Stablecoins     | [lec10](#), [code](lectures/lecture10-code.zip) |    |     |  |
+| 11/3 | Automated Market Makers            | [lec11](#)        |  |  | |
+| 11/5 | Leading    |  [lec12](#)       |  | HW2 |  |
+| 11/10  | Derivatives: Perpetual Futures                      |  [lec13](#)                      | [HW3](#) |        | |
+| 11/12  |  Maximal Extractable Value (MEV)   | [lec14](#)        |  |     |  |
+| 11/17  | DAOs & Governance |   [lec15](#)     |  |  | |
+| 11/19  | Midterm 2 |   [lec16](#)     |     |     | |
+| 11/24 | Layer-2 Scaling                       |         | [HW4](#) |  HW3 (Due 5/28)  | |
+| 11/26 | Cross-Chain Bridges        |     [lec17](#)   |     |  |  |
+| 12/1 | Security in Practice  |         |     |  | |
+| 12/3  | Wrap-Up & Future Directions |        |     |    | |
 
 ## Grading
 
 - Programming assignments: 60%
-  - 4 programming assignments, 15% each
+  - 5 programming assignments, 12% each
 
-- Final project: 40%
-  - See the final project guide for detailed breakdown.
+- Midterms: 40% （20% each）
 
 
 Below is a grading system (No curving).
