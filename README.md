@@ -1,49 +1,45 @@
 # CS190J Blockchain Technologies and Security
 
-This upper‑division course gives students a rigorous, security‑first tour of modern blockchain systems. We begin with the cryptographic building blocks (hash functions, digital signatures, zero‑knowledge proofs) and quickly progress to consensus mechanisms such as Proof‑of‑Work, Proof‑of‑Stake, and BFT‑style protocols. Using Bitcoin and Ethereum as primary case studies, we dissect ledger structures, peer‑to‑peer networking, transaction execution, and economic incentives. The second half of the course focuses on smart‑contract platforms, decentralized applications (DeFi, NFTs, cross‑chain bridges), and the growing landscape of layer‑2 and modular scaling solutions. Students will learn to spot and exploit common contract vulnerabilities, apply formal‑verification tools, and design mitigations grounded in game‑theoretic security.
+This course offers a rigorous, hands-on exploration of blockchain systems and decentralized finance, beginning with the technical and economic foundations that make blockchains possible. In the first part, students learn the core principles of decentralization, trust, and incentives, gaining a working understanding of Bitcoin’s UTXO model and Ethereum’s account-based architecture, before diving into EVM execution, Solidity programming, and smart contract design patterns through a series of progressively challenging labs. Building on this foundation, the second part focuses on DeFi applications, analyzing stablecoins, AMMs, lending markets, derivatives, MEV, and governance systems, with case studies and coding assignments that emphasize both conceptual understanding and practical implementation. The final section surveys advanced topics—layer-2 scaling, cross-chain bridges, and real-world security case studies—preparing students to think critically about the future of blockchain scalability, security, and usability. By the end of the course, students will have designed, implemented, and analyzed multiple decentralized applications, gaining both theoretical insight and hands-on experience with the infrastructure powering today’s Web3 ecosystem.
 
-Coursework combines technical readings with weekly labs in Solidity/Rust and a capstone project in which teams build or audit a real‑world blockchain application. Guest lectures from industry researchers highlight contemporary attacks and defense practices.
 
-The workloads include 4 programming assignments plus one final project.
+The workloads include 5 programming assignments plus two in-class midterms.
 
 ## Office hour
 
 Instructor: Yu Feng (yufeng@UCSBCS)
 
-TA: Junrui Liu (junrui@UCSBCS)
+TA: Hanzhi Liu (hanzhi@UCSBCS)
 
-Class: M,Wed, 5:00pm-6:15pm, CHEM 1171
+Class: M,Wed, 5:00pm-6:15pm, TD-W 1701
 
-Instructor's office hour: Mon, 9am-10am, HFH-2157
+Instructor's office hour: Mon, 3:30pm-4:30pm, HFH-2157
 
-Junrui's office hour: Fri, 11am-1pm, Phelps-1445
-
-Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://ucsb.zoom.us/j/85737101992?pwd=UzlHNHNQQkVSenhDZzArejR4SWt1QT09)) or by slack/email appointment
+Hanzhi's office hour: Fri, 11am-1pm, Phelps-1445
 
 
 | Date  | Topic                                         | Slides | Out | Due |
 |:-----:|:---------------------------------------------:|:------:|:---:|:---:|
-| 4/1  | Introduction to Blockchain and Cryptocurrency                                |  [lec1](lectures/lecture1.pdf)      |     |     |
-| 4/3  | Bitcoin Mechanics                        |  [lec2](lectures/lecture2.pdf)      |     |     |
-| 4/8  | Bitcoin Scripts and Wallets |  [lec3](lectures/lecture3.pdf)      | [HW1](homework/hw1) |     |
-| 4/10  | Fundamentals of Consensus |  [lec4](lectures/lecture4.pdf)    |  |     |
-| 4/15  | Consensus in the Internet Setting |  [lec5](lectures/lecture5.pdf)   |     |     |
-| 4/17 | Incentives and Accountability in Consensus: Proof-of-Stake |  [lec6](lectures/lecture6.pdf)    |   |     |
-| 4/22 |  Ethereum: Mechanics      |  [lec7](lectures/lecture7.pdf)     | [HW2](homework/hw2) |  HW1   |
-| 4/24 | Solidity                  |  [lec8](lectures/lecture8.pdf)  |  |     |
-| 4/29 |  Stablecoins & Lending Protocols  |  [lec9](lectures/lecture9.pdf)  |     | |
-| 5/1 | DeFi Security -- Yanju     | [lec10](lectures/lecture10.pdf), [code](lectures/lecture10-code.zip) |    |     |
-| 5/6 | Decentralized exchanges            | [lec11](lectures/lecture11.pdf)        |  |  |
-| 5/8 | Onchain Gaming -- smsunarto at Argus Labs    |  [lec12](#)       | [Project Guide](final/) | HW2 |
-| 5/13  |  Privacy blockchain                      |  [lec13](lectures/lecture13.pdf)                      | [HW3](homework/hw3) |        |
-| 5/15  |  Optimistic Rollups   | [lec14](lectures/lecture14.pdf)        |  |     |
-| 5/20  | No class (Out of town) |   [lec15](#)     |  | Proposal (2 pages) |
-| 5/22  | ZK Rollups -- Haichen Shen at Scroll |   [lec16](#)     |     |     |
-| 5/27 | Memorial Day                       |         | [HW4](homework/hw4) |  HW3 (Due 5/28)  |
-| 5/29 |  More ZKP        |     [lec17](#)   |     | Poster (PDF) |
-| 6/3 | Poster Session I for Final Projects |         |     |  |
-| 6/5  | Poster Session II for Final Projects |        |     |    |
-| 6/14 | [Quarter Ends] | | | Final Report (8 pages), Final Project Artifact, HW4 |
+| 9/29  | Introduction & Bitcoin                                |  [lec1](lectures/lecture1.pdf)      |     |     |
+| 10/1  | Ethereum Basics                        |  [lec2](#)      |     |     |
+| 10/6  | EVM Execution Model |  [lec3](#)      | [HW1](#) |     |
+| 10/8  | Solidity I: Basics |  [lec4](#)    |  |     |
+| 10/13  | Solidity II: Contracts in Practice |  [lec5](#)   |     |     |
+| 10/15 | Smart Contract Design Patterns |  [lec6](#)    |   |     |
+| 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   |
+| 10/22 |  Midterm 1                  |  [lec8](#)  |  |     |
+| 10/27 |  DeFi Overview: Money Legos  |  [lec9](#)  |     | |
+| 10/29 | Stablecoins     | [lec10](#), [code](lectures/lecture10-code.zip) |    |     |
+| 11/3 | Automated Market Makers            | [lec11](#)        |  |  |
+| 11/5 | Leading    |  [lec12](#)       | [Project Guide](final/) | HW2 |
+| 11/10  | Derivatives: Perpetual Futures                      |  [lec13](#)                      | [HW3](#) |        |
+| 11/12  |  Maximal Extractable Value (MEV)   | [lec14](#)        |  |     |
+| 11/17  | DAOs & Governance |   [lec15](#)     |  | Proposal (2 pages) |
+| 11/19  | Midterm 2 |   [lec16](#)     |     |     |
+| 11/24 | Layer-2 Scaling                       |         | [HW4](#) |  HW3 (Due 5/28)  |
+| 11/26 | Cross-Chain Bridges        |     [lec17](#)   |     | Poster (PDF) |
+| 12/1 | Security in Practice  |         |     |  |
+| 12/3  | Wrap-Up & Future Directions |        |     |    |
 
 ## Grading
 
@@ -57,14 +53,14 @@ Yanju's office hour (for HW inquiries only): Mon, 4pm-5pm, Zoom ([link](https://
 Below is a grading system (No curving).
 
 | Letter | Percentage |
-|--------|------------|
-| A      | 95–100%     |
-| A-     | 90–94%     |
-| B     | 85–89%     |
-| B-      | 80–84%     |
-| C+     | 75%–79%     |
-| C     | 70%–74%     |
-| C-      | 60–69%     |
+| ------ | ---------- |
+| A      | 93–100%    |
+| A-     | 85–92%     |
+| B+     | 80–84%     |
+| B      | 75–79%     |
+| B-     | 70–74%     |
+| C+     | 65–69%     |
+| C      | 60–64%     |
 | F      | <60%       |
 
 Credit: https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States
@@ -75,8 +71,6 @@ Please submit your homework to gradescope: https://www.gradescope.com
 
 ## Homework
 
-1. [Homework1](homework/hw1)
-2. [Homework2](homework/hw2)
-3. [Homework3](homework/hw3)
-3. [Homework4](homework/hw4)
+1. [Homework1](#)
+
 
