@@ -27,19 +27,19 @@ Hanzhi's office hour: Fri, 11am-1pm, Phelps-1445
 | 10/13  | Solidity II: Contracts in Practice |  [lec5](#)   |     |     |  |
 | 10/15 | Smart Contract Design Patterns |  [lec6](#)    |   |     |  |
 | 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   |  |
-| 10/22 |  Midterm 1                  |  [lec8](#)  |  |     |  |
-| 10/27 |  DeFi Overview: Money Legos  |  [lec9](#)  |     | |  |
-| 10/29 | Stablecoins     | [lec10](#), [code](lectures/lecture10-code.zip) |    |     |  |
-| 11/3 | Automated Market Makers            | [lec11](#)        |  |  | |
-| 11/5 | Leading    |  [lec12](#)       |  | HW2 |  |
-| 11/10  | Derivatives: Perpetual Futures                      |  [lec13](#)                      | [HW3](#) |        | |
-| 11/12  |  Maximal Extractable Value (MEV)   | [lec14](#)        |  |     |  |
-| 11/17  | DAOs & Governance |   [lec15](#)     |  |  | |
-| 11/19  | Midterm 2 |   [lec16](#)     |     |     | |
-| 11/24 | Layer-2 Scaling                       |         | [HW4](#) |  HW3 (Due 5/28)  | |
-| 11/26 | Cross-Chain Bridges        |     [lec17](#)   |     |  |  |
-| 12/1 | Security in Practice  |         |     |  | |
-| 12/3  | Wrap-Up & Future Directions |        |     |    | |
+| 10/22 |  Midterm 1                  |    |  |     |  |
+| 10/27 |  DeFi Overview: Money Legos  |  [lec8](#)  |     | |  |
+| 10/29 | Stablecoins     | [lec9](#) |    |     |  |
+| 11/3 | Automated Market Makers            | [lec10](#)        |  |  | |
+| 11/5 | Lending    |  [lec11](#)       |  | HW2 |  |
+| 11/10  | Derivatives: Perpetual Futures                      |  [lec12](#)                      | [HW3](#) |        | |
+| 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        |  |     |  |
+| 11/17  | DAOs & Governance |   [lec14](#)     |  |  | |
+| 11/19  | Midterm 2 |       |     |     | |
+| 11/24 | Layer-2 Scaling                       |  [lec15](#)        | [HW4](#) |  HW3 (Due 5/28)  | |
+| 11/26 | Cross-Chain Bridges        |     [lec16](#)   |     |  |  |
+| 12/1 | Security in Practice  |    [lec17](#)      |     |  | |
+| 12/3  | Wrap-Up & Future Directions |     [lec18](#)    |     |    | |
 
 ## Grading
 
