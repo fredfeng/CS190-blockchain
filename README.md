@@ -70,6 +70,11 @@ Please submit your homework to gradescope: https://www.gradescope.com
 
 ## Homework
 
-1. [Homework1](#)
+1. [Homework1](#): Smart Contarct Programming with Solidity
+2. [Homework2](#): Smart Contract Optimization
+3. [Homework3](#): Simple AMM
+4. [Homework4](#): Simple Sandwich
+5. [Homework5](#): DeFi Security Attack and Defense
+
 
 
