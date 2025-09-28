@@ -72,8 +72,8 @@ Please submit your homework to gradescope: https://www.gradescope.com
 
 1. [Homework1](#): Smart Contarct Programming with Solidity
 2. [Homework2](#): Smart Contract Optimization
-3. [Homework3](#): Simple AMM
-4. [Homework4](#): Simple Sandwich
+3. [Homework3](#): AMM Pricing & Slippage Simulator
+4. [Homework4](#): MEV Sandwich Attack Simulator
 5. [Homework5](#): DeFi Security Attack and Defense
 
 
