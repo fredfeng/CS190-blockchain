@@ -20,7 +20,7 @@ Hanzhi's office hour: Fri, 12pm-1pm, SH-1430 (Discussion Session: 1pm-1:50pm, SH
 
 | Date  | Topic                                         | Slides | Out | Due | Note
 |:-----:|:---------------------------------------------:|:------:|:---:|:---:|:---:|
-| 9/29  | Introduction & Bitcoin                                |  [lec1](lectures/lecture1.pdf)      |     |     |     |
+| 9/29  | Introduction & Bitcoin                                |  [lec1](lectures/lecture1.pdf)      |     |     |  [note1](notes/note1.pdf)   |
 | 10/1  | Ethereum Basics                        |  [lec2](#)      |     |     |     |
 | 10/6  | EVM Execution Model |  [lec3](#)      | [HW1](#) |     |    |
 | 10/8  | Solidity I: Basics |  [lec4](#)    |  |     |   |
@@ -28,9 +28,9 @@ Hanzhi's office hour: Fri, 12pm-1pm, SH-1430 (Discussion Session: 1pm-1:50pm, SH
 | 10/15 | Smart Contract Design Patterns |  [lec6](#)    |   |     |  |
 | 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   |  |
 | 10/22 |  Midterm 1                  |    |  |     |  |
-| 10/27 |  DeFi Overview: Money Legos  |  [lec8](#)  |     | |  |
-| 10/29 | Stablecoins     | [lec9](#) |    |     |  |
-| 11/3 | Automated Market Makers            | [lec10](#)        | [HW3](#) | HW2 | |
+| 10/27 |  DeFi Overview: Money Legos  |  [lec8](#)  |     | | [note8](notes/note8.pdf) |
+| 10/29 | Stablecoins     | [lec9](#) |    |     | [note9](notes/note9.pdf) |
+| 11/3 | Automated Market Makers            | [lec10](#)        | [HW3](#) | HW2 | [note10](notes/note10.pdf) |
 | 11/5 | Lending    |  [lec11](#)       |  |  |  |
 | 11/10  | Derivatives: Perpetual Futures                      |  [lec12](#)                      |  |        | |
 | 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        | [HW4](#) |  HW3   |  |
