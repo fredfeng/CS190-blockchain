@@ -17,6 +17,8 @@ Instructor's office hour: Mon, 3:30pm-4:30pm, HFH-2157
 
 Hanzhi's office hour: Fri, 12pm-1pm, SH-1430 (Discussion Session: 1pm-1:50pm, SH-1430)
 
+Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBSzckDnZKw
+
 
 | Date  | Topic                                         | Slides | Out | Due | Note
 |:-----:|:---------------------------------------------:|:------:|:---:|:---:|:---:|
