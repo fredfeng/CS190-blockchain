@@ -35,7 +35,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 11/3 | Automated Market Makers            | [lec10](#)        | [HW3](#) | HW2 | [note10](notes/note10.pdf) |
 | 11/5 | Lending    |  [lec11](#)       |  |  | [note11](notes/note11.pdf) |
 | 11/10  | Derivatives: Perpetual Futures                      |  [lec12](#)                      |  |        | [note12](notes/note12.pdf) |
-| 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        | [HW4](#) |  HW3   |  |
+| 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        | [HW4](#) |  HW3   | [note13](notes/note13.pdf) |
 | 11/17  | DAOs & Governance |   [lec14](#)     |  |  | |
 | 11/19  | Midterm 2 |       |     |     | |
 | 11/24 | Layer-2 Scaling                       |  [lec15](#)        |  |   | |
