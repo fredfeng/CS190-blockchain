@@ -23,7 +23,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | Date  | Topic                                         | Slides | Out | Due | Note
 |:-----:|:---------------------------------------------:|:------:|:---:|:---:|:---:|
 | 9/29  | Introduction & Bitcoin                                |  [lec1](https://cs190-blockchain-program-1hkaw7o.gamma.site/)      |     |     |  [note1](notes/note1.pdf)   |
-| 10/1  | Ethereum Basics                        |  [lec2](#)      |     |     |     |
+| 10/1  | Ethereum Basics                        |  [lec2](#)      |     |     |  [note2](notes/note2.pdf)   |
 | 10/6  | EVM Execution Model |  [lec3](#)      | [HW1](#) |     |    |
 | 10/8  | Solidity I: Basics |  [lec4](#)    |  |     |   |
 | 10/13  | Solidity II: Contracts in Practice |  [lec5](#)   |     |     |  |
@@ -33,7 +33,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 10/27 |  DeFi Overview: Money Legos  |  [lec8](#)  |     | | [note8](notes/note8.pdf) |
 | 10/29 | Stablecoins     | [lec9](#) |    |     | [note9](notes/note9.pdf) |
 | 11/3 | Automated Market Makers            | [lec10](#)        | [HW3](#) | HW2 | [note10](notes/note10.pdf) |
-| 11/5 | Lending    |  [lec11](#)       |  |  |  |
+| 11/5 | Lending    |  [lec11](#)       |  |  | [note11](notes/note11.pdf) |
 | 11/10  | Derivatives: Perpetual Futures                      |  [lec12](#)                      |  |        | |
 | 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        | [HW4](#) |  HW3   |  |
 | 11/17  | DAOs & Governance |   [lec14](#)     |  |  | |
