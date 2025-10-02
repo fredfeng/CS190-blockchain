@@ -23,7 +23,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | Date  | Topic                                         | Slides | Out | Due | Note
 |:-----:|:---------------------------------------------:|:------:|:---:|:---:|:---:|
 | 9/29  | Introduction & Bitcoin                                |  [lec1](https://cs190-blockchain-program-1hkaw7o.gamma.site/)      |     |     |  [note1](notes/note1.pdf)   |
-| 10/1  | Ethereum Basics                        |  [lec2](#)      |     |     |  [note2](notes/note2.pdf)   |
+| 10/1  | Ethereum Basics                        |  [lec2](https://lecture-2-ethereum-basic-74lxbkx.gamma.site/)      |     |     |  [note2](notes/note2.pdf)   |
 | 10/6  | EVM Execution Model |  [lec3](#)      | [HW1](#) |     |    |
 | 10/8  | Solidity I: Basics |  [lec4](#)    |  |     |   |
 | 10/13  | Solidity II: Contracts in Practice |  [lec5](#)   |     |     |  |
