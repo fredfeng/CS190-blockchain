@@ -1,7 +1,7 @@
 # Homework Assignment 1
 
 - Due: 11:59pm on Monday, October 20, 2025 (Pacific Time)
-  - Late Submission Due: 11:59pm on Monday, October 27, 2024 (Pacific Time)
+  - Late Submission Due: 11:59pm on Monday, October 27, 2025 (Pacific Time)
 - Submit via Gradescope (Course Entry Code: VW3K2R)
 - Starter Code: [hw1-starter.zip](./hw1-starter.zip)
   - Foundry is required in order to build, run and test the code if you built on top of the starter code.
