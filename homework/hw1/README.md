@@ -44,7 +44,7 @@ The system needs utilities to keep track of the balance of each user. Balance of
 
 - `function addBalance(uint256 amount) public returns (bool)` will increase the caller's balance by `amount`. 
 - `function viewBalance() public view returns (uint256)` will return the caller's current balance.
-- ` function viewRole() public view returns (uint8)` returns the current role of the caller, which could be 0 (unregistered), 1 (admin, the one that deployes the contract), 2 (host) or 3 (guest). Find more details in `RentManager.sol`.
+- ` function viewRole() public view returns (uint8)` returns the current role of the caller, which could be 0 (unregistered), 1 (other), 2 (admin, the one that deployes the contract), 3 (host) or 4 (guest). Find more details in `RentManager.sol`.
 
 Note that since it's a prototype, there isn't any real transaction happening on the blockchain that transfer any token from somewhere to this system; the balance management functions are just mock functions the you can call before testing the invoice management functions.
 
