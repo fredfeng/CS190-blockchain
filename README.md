@@ -26,7 +26,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 10/1  | Ethereum Basics                        |  [lec2](https://lecture-2-ethereum-basic-74lxbkx.gamma.site/)      |     |     |  [note2](notes/note2.pdf)   |
 | 10/6  | EVM Execution Model |  [lec3](https://lecture-3-evm-execution--ps39zsb.gamma.site/)      | [HW1](homework/hw1/) |     |  [note3](notes/note3.pdf)  |
 | 10/8  | Solidity I: Basics |  [lec4](https://lecture-4-solidity-i-bas-wlbmoh1.gamma.site/)    |  |     | [note4](notes/note4.pdf)  |
-| 10/13  | Solidity II: Contracts in Practice |  [lec5](#)   |     |     | [note5](notes/note5.pdf) |
+| 10/13  | Solidity II: Contracts in Practice |  [lec5](https://lecture-5-solidity-ii-co-xxfuck1.gamma.site/)   |     |     | [note5](notes/note5.pdf) |
 | 10/15 | Smart Contract Design Patterns |  [lec6](#)    |   |     |  |
 | 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   |  |
 | 10/22 |  Midterm 1                  |    |  |     |  |
