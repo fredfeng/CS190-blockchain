@@ -20,7 +20,7 @@ Hanzhi's office hour: Fri, 1:50pm-3pm, SH-1430 (Discussion Session: 1pm-1:50pm, 
 Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBSzckDnZKw
 
 
-| Date  | Topic                                         | Slides | Out | Due | Note
+| Date  | Topic                                         | Slides | Out | Due | Note|
 |:-----:|:---------------------------------------------:|:------:|:---:|:---:|:---:|
 | 9/29  | Introduction & Bitcoin                                |  [lec1](https://cs190-blockchain-program-1hkaw7o.gamma.site/)      |     |     |  [note1](notes/note1.pdf)   |
 | 10/1  | Ethereum Basics                        |  [lec2](https://lecture-2-ethereum-basic-74lxbkx.gamma.site/)      |     |     |  [note2](notes/note2.pdf)   |
@@ -28,7 +28,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 10/8  | Solidity I: Basics |  [lec4](https://lecture-4-solidity-i-bas-wlbmoh1.gamma.site/)    |  |     | [note4](notes/note4.pdf)  |
 | 10/13  | Solidity II: Contracts in Practice |  [lec5](https://lecture-5-solidity-ii-co-xxfuck1.gamma.site/)   |     |     | [note5](notes/note5.pdf) |
 | 10/15 | Smart Contract Design Patterns |  [lec6](lectures/lec6.pdf)    |   |     | [note6](notes/note6.pdf) |
-| 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   | [note7](notes/note7.pdf) |
+| 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](homework/hw2/) |  HW1   | [note7](notes/note7.pdf) |
 | 10/22 |  Midterm 1                  |    |  |     |  |
 | 10/27 |  DeFi Overview: Money Legos  |  [lec8](#)  |     | | [note8](notes/note8.pdf) |
 | 10/29 | Stablecoins     | [lec9](#) |    |     | [note9](notes/note9.pdf) |
@@ -72,8 +72,8 @@ Please submit your homework to gradescope: https://www.gradescope.com
 
 ## Homework
 
-1. [Homework1](#): Smart Contarct Programming with Solidity
-2. [Homework2](#): Smart Contract Optimization
+1. [Homework1](homework/hw1/): Smart Contarct Programming with Solidity
+2. [Homework2](homework/hw2/): Smart Contract Optimization
 3. [Homework3](#): AMM Pricing & Slippage Simulator
 4. [Homework4](#): MEV Sandwich Attack Simulator
 5. [Homework5](#): DeFi Security Attack and Defense
