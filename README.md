@@ -27,7 +27,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 10/6  | EVM Execution Model |  [lec3](https://lecture-3-evm-execution--ps39zsb.gamma.site/)      | [HW1](homework/hw1/) |     |  [note3](notes/note3.pdf)  |
 | 10/8  | Solidity I: Basics |  [lec4](https://lecture-4-solidity-i-bas-wlbmoh1.gamma.site/)    |  |     | [note4](notes/note4.pdf)  |
 | 10/13  | Solidity II: Contracts in Practice |  [lec5](https://lecture-5-solidity-ii-co-xxfuck1.gamma.site/)   |     |     | [note5](notes/note5.pdf) |
-| 10/15 | Smart Contract Design Patterns |  [lec6](#)    |   |     | [note6](notes/note6.pdf) |
+| 10/15 | Smart Contract Design Patterns |  [lec6](lectures/lec6.pdf)    |   |     | [note6](notes/note6.pdf) |
 | 10/20 |  Gas, Testing, and Tooling      |  [lec7](#)     | [HW2](#) |  HW1   | [note7](notes/note7.pdf) |
 | 10/22 |  Midterm 1                  |    |  |     |  |
 | 10/27 |  DeFi Overview: Money Legos  |  [lec8](#)  |     | | [note8](notes/note8.pdf) |
