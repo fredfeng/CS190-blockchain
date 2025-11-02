@@ -32,7 +32,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 10/22 |  Midterm 1                  |    |  |     |  |
 | 10/27 |  DeFi Overview: Money Legos  |  [lec8](https://lecture-8-defi-overview--nsmcwfm.gamma.site/)  |     | | [note8](notes/note8.pdf) |
 | 10/29 | Stablecoins     | [lec9](https://lecture-9-stablecoins-fi-3ojsk9b.gamma.site/) |    |     | [note9](notes/note9.pdf) |
-| 11/3 | Automated Market Makers            | [lec10](#)        | [HW3](#) | HW2 | [note10](notes/note10.pdf) |
+| 11/3 | Automated Market Makers            | [lec10](https://lecture-10-automated-mar-z3k1r8p.gamma.site/)        | [HW3](#) | HW2 | [note10](notes/note10.pdf) |
 | 11/5 | Lending    |  [lec11](#)       |  |  | [note11](notes/note11.pdf) |
 | 11/10  | Derivatives: Perpetual Futures                      |  [lec12](#)                      |  |        | [note12](notes/note12.pdf) |
 | 11/12  |  Maximal Extractable Value (MEV)   | [lec13](#)        | [HW4](#) |  HW3   | [note13](notes/note13.pdf) |
