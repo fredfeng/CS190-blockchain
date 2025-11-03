@@ -1,4 +1,4 @@
-# Homework Assignment 3: AMM Pricing & Band Simulation
+# Homework Assignment 3: AMM Pricing & Slippage Simulator
 
 - Due: 11:59pm on Wednesday, Nov 12, 2025 (Pacific Time)
   - Late Submission Due: 11:59pm on Wednesday, Nov 19, 2025 (Pacific Time)
