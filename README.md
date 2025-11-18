@@ -37,7 +37,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 11/10  | Derivatives: Perpetual Futures                      |  [lec12](https://lecture-12-derivatives-p-uo4y6pg.gamma.site/)                      |  |        | [note12](notes/note12.pdf) |
 | 11/12  |  Maximal Extractable Value (MEV)   | [lec13](https://lecture-13-maximal-extra-kxz1sxe.gamma.site/)        |  |  HW3   | [note13](notes/note13.pdf) |
 | 11/17  | DAOs & Governance |   [lec14](https://lecture-14-daos-governan-o9oquqk.gamma.site/)     |  |  | [note14](notes/note14.pdf) |
-| 11/19  | Midterm 2 |       |   [HW4](#)  |     | |
+| 11/19  | Midterm 2 |       |   [HW4](homework/hw4/)  |     | |
 | 11/24 | Layer-2 Scaling                       |  [lec15](#)        |  |   | |
 | 11/26 | Cross-Chain Bridges        |     [lec16](#)   |     |  |  |
 | 12/1 | Security in Practice  |    [lec17](#)      |  [HW5](#)   | HW4 | |
