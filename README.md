@@ -40,7 +40,7 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 11/19  | Midterm 2 |       |   [HW4](homework/hw4/)  |     | |
 | 11/24 | Layer-2 Scaling                       |  [lec15](#)        |  |   | |
 | 11/26 | Cross-Chain Bridges        |     [lec16](#)   |     |  |  |
-| 12/1 | Security in Practice  |    [lec17](#)      |  [HW5](#)   | HW4 | |
+| 12/1 | Security in Practice  |    [lec17](#)      | [HW5](homework/hw5/) | HW4 | |
 | 12/3  | Wrap-Up & Future Directions |     [lec18](#)    |     |    | |
 
 ## Grading
@@ -74,9 +74,9 @@ Please submit your homework to gradescope: https://www.gradescope.com
 
 1. [Homework1](homework/hw1/): Smart Contarct Programming with Solidity
 2. [Homework2](homework/hw2/): Smart Contract Optimization
-3. [Homework3](#): AMM Pricing & Slippage Simulator
-4. [Homework4](#): MEV Sandwich Attack Simulator
-5. [Homework5](#): DeFi Security Attack and Defense
+3. [Homework3](homework/hw3/): AMM Pricing & Slippage Simulator
+4. [Homework4](homework/hw4/): MEV Sandwich Attack Simulator
+5. [Homework5](homework/hw5/): DeFi Security Attack and Defense
 
 
 
