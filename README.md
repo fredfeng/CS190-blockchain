@@ -39,8 +39,8 @@ Slack: https://join.slack.com/t/cs190n/shared_invite/zt-3ej3pqm9y-7DWy1FEGMlYzBS
 | 11/17  | DAOs & Governance |   [lec14](https://lecture-14-daos-governan-o9oquqk.gamma.site/)     |  |  | [note14](notes/note14.pdf) |
 | 11/19  | Midterm 2 |       |   [HW4](homework/hw4/)  |     | |
 | 11/24 | Layer-2 Scaling                       |  [lec15](https://lecture-15-ethereums-rol-3jrsz22.gamma.site/)        |  |   | |
-| 11/26 | Cross-Chain Bridges        |     [lec16](#)   |     |  |  |
-| 12/1 | Security in Practice  |    [lec17](#)      | [HW5](homework/hw5/) | HW4 | |
+| 11/26 | Cross-Chain Bridges        |     [lec16](https://lecture-16-cross-chain-b-lo4gx2d.gamma.site/)   |     |  |  |
+| 12/1 | Security in Practice  |    [lec17](https://lecture-17-blockchain-se-cz7vnvj.gamma.site/)      | [HW5](homework/hw5/) | HW4 | |
 | 12/3  | Wrap-Up & Future Directions |     [lec18](#)    |     |    | |
 
 ## Grading
